@@ -4,7 +4,7 @@ Aplicativo Android para gerenciamento de empréstimos de itens, com persistênci
 
 ## 🚀 Tecnologias
 
-* Java / Kotlin
+* Java
 * Android SDK
 * Firebase (Firestore / Realtime Database)
 * Material Design
